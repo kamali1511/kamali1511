@@ -1,5 +1,5 @@
-# Hello People! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> !! 
-**_I'm Kamalishree_**
+# Hello People! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">  
+**I'm Kamalishree**
 
 <!--
 **kamali1511/kamali1511** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

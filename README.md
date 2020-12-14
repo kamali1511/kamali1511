@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently pursuing my bachelors degree in computer science at [SVCE]
 - 🌱 I’m currently learning about React JS
-- 👯 I’m looking to collaborate on ...
+- 😄 Pronouns: She|Her
+<!--- 👯 I’m looking to collaborate on ...-->
 <!--- 🤔 I’m looking for help with ...-->
 <!--- 💬 Ask me about ...-->
 <!--- 📫 How to reach me: ...-->
-- 😄 Pronouns: She|Her
 <!--- ⚡ Fun fact: ...-->

@@ -1,4 +1,4 @@
-# Hello People! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">  
+# Hey Buddy! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">  
 **I'm Kamalishree**
 
 - 🔭 I’m currently pursuing my bachelors degree in computer science at [SVCE](https://www.svce.ac.in/).
